@@ -1,0 +1,15 @@
+h1 {
+    background: rgb(127,0,245);
+    text-align: center;
+    ;
+}
+
+* {
+    background-color: rgb(195, 148, 185);
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+h2 {
+    font: italic;
+}
